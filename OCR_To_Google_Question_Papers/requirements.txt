@@ -1,4 +1,4 @@
-﻿beautifulsoup4==4.9.1
+beautifulsoup4==4.9.1
 certifi==2022.12.7
 chardet==3.0.4
 click==7.1.2
@@ -24,4 +24,4 @@ soupsieve==2.0.1
 tinysegmenter==0.3
 tldextract==2.2.3
 tqdm==4.48.2
-urllib3==2.6.0
+urllib3==2.6.3
